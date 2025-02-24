@@ -1,0 +1,5 @@
+Steam tanks and engines are much cheaper than accumulators.
+This is a medium solar panel array with small electric poles and medium solar panels.
+
+Tiling this will allow you to walk in the solar farm along the space reserved for power poles on the edges of each array.
+Should still be comfortable enough walking through the solar farm with the size of the array, without too much detouring.
