@@ -1,0 +1,7 @@
+Required tech:
+Bean stuffs
+Burner heat source 1
+Heat exchanger stuffs
+Steam Engine 2
+
+27MJ of steam power from 4 farms, 4 burners in a 2x2 grid, and 15 engines. Good luck building it!

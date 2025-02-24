@@ -1,0 +1,10 @@
+Required tech
+Red Algae Processing (for algae farm 3)
+Boiler 2, Steam Engine 2
+Steel furnaces
+Automation 2 (there's one assembler 2 in it for building count)
+
+8/min mineralized water and 8/min CO2 for 3.4935MJ of power. Burns charcoal.
+This one runs on boilers but you can easily convert to an 2x2 array of burners with four of those.
+Yeah, it's just under one boiler 2. The furnace fuel and CO2 have already been included in the calculations though. Make an extra farm, I guess.
+
