@@ -1,0 +1,13 @@
+Electrolyser 2
+Hydro Plant 2
+Chemical Plant 2
+Liquefier 2
+
+9 electrolysers and stuff totaling 5.6MW of power, for 67.5/s mineral sludge.
+Good luck fitting 1.8x basic belts' worth of items on a yellow belt!
+Unless you bother splitting the slag and used electrodes early. Just put in the circuit boards, I guess...
+
+The blueprint should run with at least 99% uptime for all the electorlysers, at full power and mineral sludge throughput.
+
+For electrodes you'd want at least 200- that might not even be enough. Never managed to get a count as I haven't ever put enough in it.
+50 filters/frames should be plenty- if not, do 75. Those aren't that expensive. Remember: hand crafting 5x the charcoal filter recipe gives you a batch of 25.
