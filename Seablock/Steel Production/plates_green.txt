@@ -1,0 +1,8 @@
+Required tech:
+Advanced Manganese Smelting 2
+Advanced Iron Smelting 2
+Advanced Steel Smelting 2
+
+67.2/s mineral sludge, plus charcoal, sulfuric acid and oxygen, to 1.5/s plates and 0.313/s stone bricks.
+
+Ferrous mixture refinery for cheap iron and manganese to make manganese steel recipe, and mineral catalyst refinery to meet the extra iron demand.

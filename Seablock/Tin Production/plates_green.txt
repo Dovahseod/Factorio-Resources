@@ -1,0 +1,6 @@
+Required tech:
+Advanced Tin Smelting 2
+
+Fully mineral catalyst refinery as copper cannot be used in the production of tin. Analogous to the copper plates_green solution.
+
+70.313/s sludge plus charcoal for 3.75/s tin plates and 0.313/s stone bricks.
